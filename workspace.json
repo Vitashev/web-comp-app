@@ -1,4 +1,13 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "ng-app": "apps/ng-app",
+    "ng-app-e2e": "apps/ng-app-e2e",
+    "react-app": "apps/react-app",
+    "react-app-e2e": "apps/react-app-e2e",
+    "shared-ui-components": "libs/shared/ui-components",
+    "test": "apps/test",
+    "test-e2e": "apps/test-e2e",
+    "ui": "libs/ui"
+  }
 }
