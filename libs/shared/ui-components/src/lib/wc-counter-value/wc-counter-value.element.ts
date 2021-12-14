@@ -1,3 +1,4 @@
+// create type for React app
 declare global {
   namespace JSX {
     interface IntrinsicElements {
