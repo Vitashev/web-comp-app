@@ -28,6 +28,6 @@ export class CounterValueElement extends HTMLElement {
      )}</span></h3>`;
   }
 }
-// define if when element doens't exist
+// define element if it doesn't exist
 customElements.get('wc-counter-value') ||
   customElements.define('wc-counter-value', CounterValueElement);
