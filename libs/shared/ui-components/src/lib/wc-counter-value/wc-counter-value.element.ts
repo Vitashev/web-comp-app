@@ -7,7 +7,7 @@ declare global {
   }
 }
 
-export class ButtonElement extends HTMLElement {
+export class CounterValueElement extends HTMLElement {
   public static get observedAttributes() {
     return ['count'];
   }
@@ -28,6 +28,6 @@ export class ButtonElement extends HTMLElement {
      )}</span></h3>`;
   }
 }
-
+// define if when element doens't exist
 customElements.get('wc-counter-value') ||
-  customElements.define('wc-counter-value', ButtonElement);
+  customElements.define('wc-counter-value', CounterValueElement);
