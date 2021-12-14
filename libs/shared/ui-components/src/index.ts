@@ -1,2 +1,1 @@
-export * from './lib/shared-ui-components';
-export * from './lib/button/button.element';
+export * from './lib/wc-counter-value/wc-counter-value.element';
