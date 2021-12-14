@@ -7,7 +7,6 @@
     "react-app-e2e": "apps/react-app-e2e",
     "shared-ui-components": "libs/shared/ui-components",
     "test": "apps/test",
-    "test-e2e": "apps/test-e2e",
-    "ui": "libs/ui"
+    "test-e2e": "apps/test-e2e"
   }
 }

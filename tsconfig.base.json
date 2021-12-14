@@ -17,8 +17,7 @@
     "paths": {
       "@web-comp-app/shared/ui-components": [
         "libs/shared/ui-components/src/index.ts"
-      ],
-      "@web-comp-app/ui": ["libs/ui/src/index.ts"]
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
