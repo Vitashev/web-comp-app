@@ -1,4 +1,3 @@
-import styles from './app.module.css';
 import '@web-comp-app/shared/ui-components';
 
 import { useState } from 'react';
