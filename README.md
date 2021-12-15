@@ -2,7 +2,7 @@
 
 # WebCompApp
 
-The app demonstrates how to create sharable ui component and how to reuse them in different frameworks. 
+The app demonstrates how to create sharable ui component and how to reuse it in different frameworks. 
 
 ## Installling dependencies
 
@@ -18,6 +18,6 @@ The app demonstrates how to create sharable ui component and how to reuse them i
 
 ## Enjoy!
 
-If you learn something new, follow me on [medium](https://medium.com/@easy-web) and [twitter](https://twitter.com/EasyWebOrg)
+If you learned something new, follow me on [medium](https://medium.com/@easy-web) and [twitter](https://twitter.com/EasyWebOrg)
 
  
